@@ -12,5 +12,5 @@ var happyHolidayTo = function(holiday, name) {
 }
 
 var holidayCountdown = function(days, holiday) {
-  return ('Its' + ' ' + days + 'days' + ' ' + 'until' + ' ' holiday + '!') 
+  return ('It\'s ' + days + ' days until ' +  holiday + '!') 
 }
